@@ -1,4 +1,3 @@
-
 *I want* a space where I can explore ideas. To be able to link them together, developing my ideas over time. 
 *I want* this to be a public space — one where I can think in public, and share ideas with others. Yet, I also want to restrict access to some areas (e.g. business documents)
 *I want* this to be a place where visitors can comment and contribute. To engage — give feedback, add their thoughts as they arise. 
