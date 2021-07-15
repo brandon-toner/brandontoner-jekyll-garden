@@ -1,5 +1,3 @@
-# Learning in Context
-
 Whenever I am trying to learn something new, I try to apply it as soon as I can.
 
 Things seem to stick better when I have something real and tangible that I am applying the knowledge to.
