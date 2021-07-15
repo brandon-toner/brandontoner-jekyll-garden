@@ -32,7 +32,13 @@ It's the reverse-chronological feed of new posts and updates. The stuff as it ha
 Continuing the methaphor, the wiki is the **garden**. The "web as topography". The stable and evolving landscape of ideas. Rather than being centered around "now and lately", the garden is time-independant. Instead, it centers around the ideas themselves and how they fit together. 
 
 ### A vision for an evenual workflow
-Ideas start on the blog (or in Roam — the private graph).
+Ideas start on the blog (or in Roam — the private graph). 
+
+The blog should be pretty messy and informal. Optimized for prolific expression, rather than polish and reader-friendliness. The content of the blog is the stream-of-consciousness – the thoughts as they occur. 
+
+The content from the blog should populate the garden as ideas mature and fit into the greater framework of ideas.
+
+Ideally, I'd like the blog and the garden to be somewhat interconnected — such that I could use wiki-links in blog posts to create or reference garden posts.
 
 ---
 ## [[Open Questions]]
