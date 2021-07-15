@@ -31,7 +31,7 @@ BT July 14/21
 
 I'm using iA Writer for .md editing, though probably going to use something else, like Obsidian/Bear, that has wiki-links built in.
 
-I'd like to be able to create new pages inline by just adding `[[]]` and *boom*, new page added to the directory.
+I'd like to be able to create new pages inline by just adding [[ ]] and *boom*, new page added to the directory.
 
 > and *boom*, new page added to the directory
 
@@ -52,6 +52,22 @@ Super easy.
 ### Code Editor
 
 Using VS Code to edit HTML files, with an extension that gives me a "Live Preview" of the code.
+
+## Open Questions
+
+- Can I bury page links in aliases? (Didn't work further up this page)
+- Can I wrap content in an inline code block to change the rendering? (Didn't work when I tried to wrap the [[ ]] further up the page)
+
+## Other Comments
+
+- I miss block references a bit. Saying "further up the page" without being able to point to it is weird haha.
+- I'll make this all much more atomic sometime, I'm just clearing my head here now.
+
+## Wild & Wacky Wish-list
+
+- Paragraph links
+- Visitor comments
+- Email gathering for list / other form stuff
 
 ## About this template
 
