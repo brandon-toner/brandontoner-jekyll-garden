@@ -29,8 +29,7 @@ BT July 14/21
 
 ### .md Editor
 
-- iA Writer for .md editing (Probably going to use something else, like Bear, that has wikilcnks built in).
-- Yea, I switched to Bear.
+- iA Writer for .md editing (Probably going to use something else, like Obsidian/Bear, that has wiki-links built in).
 
 ### File Manager
 
