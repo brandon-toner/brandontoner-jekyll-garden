@@ -1,0 +1,13 @@
+- How might groups of people work together to enhance their collective knowledge and effectiveness?
+	- How can technology, specifically tools-for-thought be leveraged to facilitate collective sense-making?
+- How are the values of a community or organization determined? What effect to values have on group's culture?
+- What makes a good leader?
+- What are the limitations of scientific reasoning? What are other ways of knowing?
+- What does it mean to be an expert or professional?
+- How might technology be leveraged to enhance the quality of care delivered by healthcare institutions?
+- How can I reconcile productivity, personal development, and non-coercion?
+- What knowledge and skills will be most important 10 years from now?
+- How does language affect a person's interpretation of the world?
+- What does it mean to live a meaningful life?
+- What is the role of play in the creative process?
+- What determines whether or not something "resonates"?
