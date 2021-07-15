@@ -13,6 +13,10 @@ permalink: /
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
+Testing links:
+- [[move your body every day]]
+- [[cats]]
+
 <style>
   .wrapper {
     max-width: 46em;
