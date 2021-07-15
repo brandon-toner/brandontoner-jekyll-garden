@@ -16,7 +16,7 @@ See also: [[A vision for a personal website]]
 
 ~~I'm using iA Writer for .md editing, though probably going to use something else, like Obsidian/Bear, that has wiki-links built in.~~
 
-Yea, I switched to Obsidian. Way better.
+Yea, I switched to [Obsidian](https://obsidian.md/). Way better.
 
 ### File Manager
 
