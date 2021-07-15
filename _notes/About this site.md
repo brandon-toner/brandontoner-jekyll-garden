@@ -8,7 +8,7 @@ It's also a place where I can publish public links and post writing online.
 
 Perhaps I'll start writing more, who knows. After all, I seem to have most of the infrastructure setup now!
 
-BT July 14/21
+See also: [[A vision for a personal website]]
 
 ## What tools am I using?
 

@@ -1,12 +1,12 @@
-*I want* a space where I can explore ideas. To be able to link them together, developing my ideas over time. 
+I want *a space where I can explore ideas*. To be able to link them together, developing my ideas over time. 
 
-*I want* this to be a public space — one where I can think in public, and share ideas with others. Yet, I also want to restrict access to some areas (e.g. business documents)
+I want *it to be a public space* — one where I can think in public, and share ideas with others. Yet, I also want to restrict access to some areas (e.g. business documents)
 
-*I want* this to be a place where visitors can comment and contribute. To engage — give feedback, add their thoughts as they arise. 
+I want *it to be a place where visitors can comment and contribute*. To engage — give feedback, add their thoughts as they arise. 
 
-*I want* to have parts that are messy and exploratory — and others that are more polished and complete. I want it to feel welcoming to whatever thoughts I have —  raw or refined. After all, the raw is what leads to the refined.
+I want *to have parts that are messy and exploratory* — and others that are more polished and complete. I want it to feel welcoming to whatever thoughts I have —  raw or refined. After all, the raw is what leads to the refined.
 
-*I want* to write about different subjects and interests — rather than limiting to a specific topic/genre. Yet, I want to create cohesive experience — one where if someone visits in relation to a certain area (e.g. pharmacy), they see mainly ideas related to that area.
+I want *to write about different subjects and interests* — rather than limiting to a specific topic/genre. Yet, I want to create *cohesive experience* — one where if someone visits in relation to a certain area (e.g. pharmacy), they see mainly ideas related to that area.
 
 ### How might this look?
 I imagine three core components:
@@ -15,9 +15,7 @@ I imagine three core components:
 - Wiki/Garden
 
 #### About page
-A general landing page. 
-
-About me, at a glance. 
+A general landing page. About me, at a glance. 
 
 This is the "Who What When Where Why" stuff.
 
