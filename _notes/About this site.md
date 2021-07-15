@@ -32,21 +32,9 @@ Super easy.
 
 Using VS Code to edit HTML and other code files, with an extension that gives me a "Live Preview" of the code.
 
-## [[Open Questions]]
+## What next?
 
-- ~~Can I bury page links in aliases? (Didn't work further up this page)~~ (resolved)
-- Can I wrap content in an inline code block to change the rendering? (Didn't work when I tried to wrap the wiki-links further up the page)
-
-## Other Comments
-
-- I miss block references a bit. Saying "further up the page" without being able to point to it is weird haha.
-- I'll make this all much more atomic sometime, I'm just clearing my head here now.
-
-## Wild & Wacky Wish-list
-
-- [[Paragraph Links]]
-- Visitor comments
-- Email gathering for list / other form stuff
+See: [[Roadmap & Future Development]]
 
 ## About this template
 
