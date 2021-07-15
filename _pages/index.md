@@ -14,6 +14,7 @@ permalink: /
 ## Select Pages (Entry Points)
 - [[About this site]]
 - [[A vision for a personal website]]
+- [[Roadmap & Future Development]]
 
 <style>
   .wrapper {

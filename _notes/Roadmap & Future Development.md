@@ -1,0 +1,11 @@
+In no particular order:
+- Password-protection for sections/pages (goal: workplace SOP docs)
+- Embedded Tables of Contents
+- Search
+- Tags
+- Blog integration
+- Change garden domain to wiki.brandontoner.ca
+- Change blog domain to blog.brandontoner.ca
+- Visitor guestbook
+- Visitor comments
+- [[Paragraph Links]] / block references??

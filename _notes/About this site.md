@@ -1,6 +1,6 @@
 This is a digital garden. A hypertext blog. A place for an evolving network of ideas.
 
-But more importantly, this is a playground. A sandbox. A place for me to explore concepts of web design & programming — to [[learning in context|learn in context]]
+But more importantly, this is a playground. A sandbox. A place for me to explore concepts of web design & programming — to [[Learning in context|learn in context]]
 
 I'll likely build this up, tear it down, leave it idle for a while — then come back, pick it up again, and carry on.
 
@@ -44,7 +44,7 @@ Using VS Code to edit HTML and other code files, with an extension that gives me
 
 ## Wild & Wacky Wish-list
 
-- Paragraph links
+- [[Paragraph Links]]
 - Visitor comments
 - Email gathering for list / other form stuff
 
