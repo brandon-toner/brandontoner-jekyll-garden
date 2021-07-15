@@ -6,4 +6,4 @@ Using paragraph links allows you to make very specific references — pointing o
 
 ---
 ### References:
-- 
+- (looking for Dave Winer's description of them.... he appends a # to every paragraph on [his blog](http://scripting.com/), which contains a link to that paragraph...)
