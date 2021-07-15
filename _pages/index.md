@@ -13,7 +13,7 @@ permalink: /
 
 ## Select Pages (Entry Points)
 - [[About this site]]
-- [[A vision for an personal website]]
+- [[A vision for a personal website]]
 
 <style>
   .wrapper {
