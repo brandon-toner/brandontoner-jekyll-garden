@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Brandon Toner
+Twitter: @brandontoner
 
-Feel free to tell the world about what you love! 😍
+For more about me, visit [brandontoner.ca](http://brandontoner.ca/hello.opml).
