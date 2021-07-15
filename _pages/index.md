@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
- Welcome to the (very new) garden.
+ ... to the (very new) garden.
 </p>
 
 ## What is this?
