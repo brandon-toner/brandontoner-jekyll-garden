@@ -20,7 +20,7 @@ Yea, I switched to Obsidian. Way better.
 
 ### File Manager
 
-Files for this site are stored locally on my folder in a site folder setup by the template. The files are synced with my GitHub account, and then sent to Notify.
+Files for this site are stored locally on my folder in a site folder setup by the template. The files are synced with my GitHub account, and then sent to Netify.
 
 Whenever I make changes to the files in the folder, I commit and push the changes in Terminal using the git protocol. 
 
