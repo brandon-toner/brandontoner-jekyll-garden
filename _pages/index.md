@@ -31,7 +31,7 @@ BT July 14/21
 
 I'm using iA Writer for .md editing, though probably going to use something else, like Obsidian/Bear, that has wiki-links built in.
 
-I'd like to be able to create new pages inline by just adding [[]] and *boom*, new page added to the directory.
+I'd like to be able to create new pages inline by just adding `[[]]` and *boom*, new page added to the directory.
 
 > and *boom*, new page added to the directory
 
