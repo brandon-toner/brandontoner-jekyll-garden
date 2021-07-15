@@ -29,15 +29,9 @@ BT July 14/21
 
 ### .md Editor
 
-I'm using iA Writer for .md editing, though probably going to use something else, like Obsidian/Bear, that has wiki-links built in.
+~~I'm using iA Writer for .md editing, though probably going to use something else, like Obsidian/Bear, that has wiki-links built in.~~
 
-I'd like to be able to create new pages inline by just adding wiki-links and *boom*, new page added to the directory.
-
-> and *boom*, new page added to the directory
-
-Hmmm... Maybe not new right away, but when I click on it, it creates a new page. Like in Bear.
-
-Bottomline: The program should have an awareness of what other .md files are in the directory, and present them in a sidebar.
+Yea, I switched to Obsidian. Way better.
 
 ### File Manager
 
@@ -55,7 +49,7 @@ Using VS Code to edit HTML files, with an extension that gives me a "Live Previe
 
 ## Open Questions
 
-- Can I bury page links in aliases? (Didn't work further up this page)
+- ~~Can I bury page links in aliases? (Didn't work further up this page)~~ (resolved)
 - Can I wrap content in an inline code block to change the rendering? (Didn't work when I tried to wrap the wiki-links further up the page)
 
 ## Other Comments
