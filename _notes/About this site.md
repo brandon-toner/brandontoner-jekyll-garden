@@ -32,10 +32,20 @@ Super easy.
 
 Using VS Code to edit HTML and other code files, with an extension that gives me a "Live Preview" of the code.
 
-## What next?
-
-See: [[Roadmap & Future Development]]
-
 ## About this template
 
 This digital garden template is free and open-source. There's a nice demo page and tutorial [here](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). Developed by Maxime Vaillancourt.
+
+## Setup/Design
+
+### The good, the bad, and the commentary
+
+### What next?
+
+See: [[Roadmap & Future Development]]
+
+
+## More related notes
+- [[Working notes about the site and setup]]
+- [[Integrating the blog and the wiki]]
+- [[Writing in a garden environment]]
