@@ -44,7 +44,6 @@ This digital garden template is free and open-source. There's a nice demo page a
 
 See: [[Roadmap & Future Development]]
 
-
 ## More related notes
 - [[Working notes about the site and setup]]
 - [[Integrating the blog and the wiki]]
