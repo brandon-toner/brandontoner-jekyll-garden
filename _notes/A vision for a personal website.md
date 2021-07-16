@@ -61,10 +61,11 @@ For audio, I'd like to be able to record and post a feed of conversations (kinda
 
 For video, I can see that being mostly short explainers. I'll likely dabble into video once I figure out how to create private "member" areas on a domain. Once I figure that out, I'll likely start creating videos for staff training at my workplace.
 
----
-## [[Open Questions]]
-How should an online home be designed? 
-What purpose does it serve?
-What are the components?
-What is the writing workflow?
-How is information distributed or shared as it's published?
+## The main idea
+At the core of the vision — is the ability to engage with ideas in a way that feels natural and fun. I want to optimize for flow-state expression and interaction. I want to embrace the sloppiness of new/bidding ideas — iterate them across time, eventually distilling them in a way that can provide value to others.
+
+I want to play with media and format — to learn the ways of the internet. To become familiar with and proficient in using various tooling. 
+
+To be able to express ideas across a variety of subjects, while maintaining a cohesive feel. 
+
+**And ultimately, to build a habit of exploration and expression.**
