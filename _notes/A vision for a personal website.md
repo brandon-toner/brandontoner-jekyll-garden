@@ -19,7 +19,7 @@ A general landing page. About me, at a glance.
 
 This is the "Who What When Where Why" stuff.
 
-I also like the idea of having a "Next, Now and Lately" page here to capture where my focus/attention is at any given time.
+I also like the idea of having a ["Next, Now and Lately"](http://brandontoner.ca/hello.opml#1624138840000) page here to capture where my focus/attention is at any given time.
 
 ### The blog
 Using the ["Garden and the Stream"](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) metaphor from Michael Caulfield, the blog is the **stream**. 
