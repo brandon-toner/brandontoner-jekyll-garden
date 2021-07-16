@@ -1,0 +1,1 @@
+This digital garden template is free and open-source. There's a nice demo page and tutorial [here](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). Developed by Maxime Vaillancourt.
