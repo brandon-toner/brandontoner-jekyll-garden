@@ -23,3 +23,5 @@ Based on this, I'm likely to just write directly into the garden. Though I like 
 As in [[Auto-posting updates to the garden to the blog]], I like the idea of the blog being a feed of edits to the garden — with maybe a bit of added flair to keep it readable and entertaining. 
 
 Edits + commentary + new posts debut there? Is that too much work?
+
+Is git useful in generating a feed of changes?
