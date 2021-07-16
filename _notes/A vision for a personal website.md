@@ -36,9 +36,9 @@ The blog should be pretty messy and informal. Optimized for prolific expression,
 
 The content from the blog should populate the garden as ideas mature and fit into the greater framework of ideas.
 
-Ideally, I'd like the blog and the garden to be somewhat interconnected — such that I could use wiki-links in blog posts to create or reference garden posts.
+Ideally, I'd like the [[Integrating the blog and the wiki | blog and the garden to be somewhat interconnected]] — such that I could use wiki-links in blog posts to create or reference garden posts.
 
-*The stream hydrates the garden.* 
+*[[The stream hydrates the garden.]]* 
 
 ## Distribution and Interaction
 Ideas are best when shared. Personal websites are great n' all — but making it social feels pretty key.
@@ -68,4 +68,4 @@ I want to play with media and format — to learn the ways of the internet. To b
 
 To be able to express ideas across a variety of subjects, while maintaining a cohesive feel. 
 
-**And ultimately, to build a habit of exploration and expression.**
+**And ultimately, to foster a habit of exploration and expression.**
