@@ -16,6 +16,7 @@ permalink: /
 - [[A vision for a personal website]]
 - [[Working notes about the site and setup]]
 - [[Roadmap & Future Development]]
+- [[A forray into film photography]]
 
 <style>
   .wrapper {
