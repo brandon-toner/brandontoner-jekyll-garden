@@ -16,7 +16,7 @@
 ## Film
 - **What film should I use primarily? (A color & B&W option)**
 - **Where should I buy film?**
-	- Leaning towards [[Downtown Camera]] (same place I'm looking to develop)
+	- Leaning towards [Downtown Camera](https://downtowncamera.com/) (same place I'm looking to develop)
 - **What quality scanning should I select from Downtown Camera?**
 	- jpeg is likely fine for most purposes. Definitely to start. ($7.50 per roll)
 	- TIFF is $15 per roll 
