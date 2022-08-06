@@ -15,6 +15,13 @@
 
 ## Film
 - **What film should I use primarily? (A color & B&W option)**
+	- I have some Kodak Plus 200 and 400XT (B&W)
+	- A friend suggested:
+		- Porta 160 and Porta 400 (nice, soft, strong colours — even better overexposed 1-2 stops)
+		- pro-image 100 (a cheaper budget option)
+		- Fuji Superia 400 (a bit green, rough looking, but endearing)
+		- HP5 asd a B&W option (shoot it at 1600, vs 400, and push 2 stops in development — contrasty look, works well in low light and concerts)
+		- TMax (more subtle and less contrasty than TX)
 - **Where should I buy film?**
 	- Leaning towards [Downtown Camera](https://downtowncamera.com/) (same place I'm looking to develop)
 - **What quality scanning should I select from Downtown Camera?**
