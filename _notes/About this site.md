@@ -1,6 +1,8 @@
-This is a digital garden. A hypertext blog. A place for an evolving network of ideas.
+This is a digital garden. A place for an evolving network of ideas.
 
-But more importantly, this is a playground. A sandbox. A place for me to explore concepts of web design & programming — to [[Learning in context|learn in context]]
+This is a playground. A sandbox. A place for me to explore concepts of web design & programming — to [[Learning in context|learn in context]]. 
+
+A place to put thoughts, and link them together. 
 
 I'll likely build this up, tear it down, leave it idle for a while — then come back, pick it up again, and carry on.
 

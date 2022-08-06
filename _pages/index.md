@@ -8,13 +8,10 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 4px;">
- ... to the (very new) garden.
+ ... to the (very chaotic and new) garden.
 </p>
-
-## Select Pages (Entry Points)
 - [[About this site]]
 - [[Showcased pages & entry points]]
-- [[Notes about this site]]
 - [[Instructions to myself for how to publish]]
 
 
