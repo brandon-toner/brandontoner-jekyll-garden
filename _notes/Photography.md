@@ -1,3 +1,3 @@
-[[Film Photography]]
-[[Digital Photography]]
-[[Photography Kit]]
+- [[Film Photography]]
+- [[Digital Photography]]
+- [[Photography Kit]]
