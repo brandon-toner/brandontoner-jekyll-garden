@@ -1,2 +1,0 @@
-- [[A vision for a personal website]]
-- [[Film Photography]]

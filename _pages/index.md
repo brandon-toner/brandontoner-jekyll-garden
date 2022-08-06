@@ -11,7 +11,9 @@ permalink: /
  ... to the (very chaotic and new) garden.
 </p>
 - [[About this site]]
-- [[Showcased pages & entry points]]
+- [[Featured Pages]]
+- [[Featured Areas]]
+---
 - [[Instructions to myself for how to publish]]
 
 
