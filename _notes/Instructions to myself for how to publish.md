@@ -1,0 +1,10 @@
+- Open vault in *Obsidian*.
+- Create new note within "notes" folder, or edit existing notes.
+- Open *Terminal*
+- Navigate to the right spot with "cd websites/my-digital-garden/" (or something like that... it autopopulates)
+- Once there, it ?FISH (terminal skin) should display git status 
+	- ![[Pasted image 20220806121340.png]]
+- Enter "git status"
+	- ![[Pasted image 20220806121423.png]]
+- Enter "git add" (then tab to auto-populate) 
+- 
