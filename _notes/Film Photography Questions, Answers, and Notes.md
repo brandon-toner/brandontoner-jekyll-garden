@@ -8,8 +8,8 @@
 # Questions (& Answers, sometimes)
 ## Gear
 - **What lenses should I buy for the Nikon F2?**
-		- 50mm 1.8 sounds great
-		- Maybe a 35mm and something more telephoto.
+	- 50mm 1.8 sounds great
+	- Maybe a 35mm and something more telephoto.
 - **What should I aim to get as a lightweight hiking option?**
 - **What should I aim to get as a beater?**
 

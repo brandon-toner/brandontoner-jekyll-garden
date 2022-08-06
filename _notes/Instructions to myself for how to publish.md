@@ -14,3 +14,5 @@ I'm doing this because I just opened this folder for the first time in several m
 - Enter "git push" (then tab to autocomplete)
 	- ![[Pasted image 20220806121718.png]]
 - The green git symbol by itself indicates that the repository is in alignment with the local folder. (Everything has been published successfully)
+
+*Note: I'm aware those pasted images didn't render. Not sure how to fix lol*
