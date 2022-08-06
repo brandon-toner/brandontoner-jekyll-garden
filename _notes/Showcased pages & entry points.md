@@ -1,0 +1,3 @@
+- [[A vision for a personal website]]
+- [[A forray into film photography]]
+- 
