@@ -13,6 +13,7 @@ permalink: /
 - [[About this site]]
 - [[Featured Pages]]
 - [[Featured Areas]]
+
 ---
 - [[Instructions to myself for how to publish]]
 
