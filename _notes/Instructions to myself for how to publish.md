@@ -6,5 +6,9 @@
 	- ![[Pasted image 20220806121340.png]]
 - Enter "git status"
 	- ![[Pasted image 20220806121423.png]]
-- Enter "git add" (then tab to auto-populate) 
-- 
+- Enter "git add" (then tab to autocomplete) 
+	- ![[Pasted image 20220806121457.png]]
+- Enter "git commit" (then tab to autocomplete)
+	- ![[Pasted image 20220806121543.png]]
+- Enter "git push" (then tab to autocomplete
+	
