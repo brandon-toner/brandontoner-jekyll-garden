@@ -7,24 +7,25 @@
 
 # Questions (& Answers, sometimes)
 ## Gear
-- What lenses should I buy for the Nikon F2?
+- **What lenses should I buy for the Nikon F2?**
 		- 50mm 1.8 sounds great
 		- Maybe a 35mm and something more telephoto.
-	- What should I aim to get as a lightweight hiking option?
-	- What should I aim to get as a beater?
+- **What should I aim to get as a lightweight hiking option?**
+- **What should I aim to get as a beater?**
+
 ## Film
-- What film should I use primarily? (A color & B&W option)
-- Where should I buy film?
+- **What film should I use primarily? (A color & B&W option)**
+- **Where should I buy film?**
 	- Leaning towards [[Downtown Camera]] (same place I'm looking to develop)
-- What quality scanning should I select from Downtown Camera?
+- **What quality scanning should I select from Downtown Camera?**
 	- jpeg is likely fine for most purposes. Definitely to start. ($7.50 per roll)
 	- TIFF is $15 per roll 
-- What is the process for developing film at DTC?
+- **What is the process for developing film at DTC?**
 	- Extract film from camera
 	- Use online portal to place order
 	- Drop off in Halifax (free), or mail from CB
 	- Wait for invoice, scans, and mailed negatives.
-- What is the approximate cost per roll of fill processed?
+- **What is the approximate cost per roll of fill processed?**
 	- VERY rough estimate
 		- $10 per roll, likely
 		- $15 ish for processing.
@@ -39,20 +40,20 @@
 			- This sounds a bit complicated... later.
 		- Wait until I have several rolls to save on shipping costs.
 	- Call it ~$1/photo
-- What is the processing time at DTC?
+- **What is the processing time at DTC?**
 	- About a week from when they get the film.
-- How should I store film?
+- **How should I store film?**
 	- Undeveloped vs Developed: Is there a storage difference?
 	- How important is proper storage?
 	- Some people keep it in the freezer, is this a good idea?
-- How long does film last before expiry?
+- **How long does film last before expiry?**
 	- Is expired film still usable?
-- How do I scan or print from negatives?
+- **How do I scan or print from negatives?**
 
 ## Scanning
-- How much is involved in home scanning?
-- What gear is required?
-- How much time does home scanning take?
+- **How much is involved in home scanning?**
+- **What gear is required?**
+- **How much time does home scanning take?**
 
 ## Resources
 - Friends
