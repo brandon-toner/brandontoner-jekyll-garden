@@ -64,7 +64,7 @@
 
 ## Servicing and Repair
 - **Where can I get cameras repaired or serviced in Atlantic Canada (or beyond, if necessary)?**
-	- A guy recommended Fredricton Camera on the HFC Discord.
+	- A guy recommended [Fredricton Camera](https://www.frederictoncamera.com/) on the HFC Discord.
 	- Context: Looking to service the shutter on my Futura S (1952)
 
 ## Resources
