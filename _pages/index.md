@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 4px;">
- ... to the (very chaotic and new) wiki.
+ ... to my experimental wiki. There's nothing meaningful here — just playing with we publishing a bit.
 </p>
 - [[About this site]]
 - [[Featured Pages]]
